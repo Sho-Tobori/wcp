@@ -982,3 +982,57 @@ Binding(COMMAND+-,
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-18 23:48:55.893
 !MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.FbrcnIxP => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-19 00:23:34.375
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-19 00:23:34.376
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@271533d9[org.springframework.tooling.boot.ls:1.23.0.202010230633(id=992)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-19 00:23:34.376
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-19 00:23:36.716
+!MESSAGE Boot LS startup time from start to initialized: 2339ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-19 00:23:36.812
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.NjArdBcKisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-19 00:23:36.812
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-19 00:23:36.812
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-19 00:23:36.813
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-19 00:23:36.813
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-19 00:23:36.813
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.NjArdBcK => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-19 00:23:36.814
+!MESSAGE classpath=17 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-19 00:23:36.815
+!MESSAGE buffering callback sts4.classpath.NjArdBcK JavaWcp false 17
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-19 00:23:36.815
+!MESSAGE executing callback sts4.classpath.NjArdBcK 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-19 00:23:36.849
+!MESSAGE executing callback sts4.classpath.NjArdBcK SUCCESS [終了しました]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-19 02:11:04.160
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.NjArdBcK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-19 02:11:04.161
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.NjArdBcK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-19 02:11:04.162
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-19 02:11:04.163
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.NjArdBcK => OK
