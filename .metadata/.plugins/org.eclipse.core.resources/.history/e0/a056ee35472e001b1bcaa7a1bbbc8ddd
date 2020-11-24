@@ -1,0 +1,7 @@
+package classMethod;
+
+import classMethod.human.Human03;
+
+public class ClassMethod03 {
+
+}
